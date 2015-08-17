@@ -75,7 +75,7 @@
       // extend slider if fully retracted
       if (slider_height === configMap.retracted_height) {
         $chatSlider
-          .animate({ height: configMap.retracted_height })
+          .animate({ height: configMap.extended_height })
           .attr('title', configMap.extended_title);
         return true;
       }
