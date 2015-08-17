@@ -1,0 +1,16 @@
+{
+  "name": "spa",
+  "version": "0.0.0",
+  "homepage": "https://github.com/wrrnwng/spa",
+  "authors": [
+    "Warren Wong <wrrnwng@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
